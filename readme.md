@@ -24,4 +24,4 @@ O código está configurado para processar 50 entrevistados, conforme a regra de
 
 ## 👨‍💻 Autor
 Desenvolvido por **MARIA CAROLINE DE SOUSA**
-Aluno da ETEC - Curso de Desenvolvimento de Sistemas.
+Aluna da ETEC - Curso de Desenvolvimento de Sistemas.
